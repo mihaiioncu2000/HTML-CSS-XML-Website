@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ADMITERE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="rezultate-admitere.xsd">
+    <ELEV cnp="4936363279848">
+        <NUME>George Costinel</NUME>
+        <TELEFON>0722204500</TELEFON>
+        <EMAIL>costi.g@yahoo.com</EMAIL>
+        <MEDBAC>8.50</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="4261574964251">
+        <NUME>Andrei Mihnea</NUME>
+        <TELEFON>0722227012</TELEFON>
+        <EMAIL>mihnea.1@yahoo.com</EMAIL>
+        <MEDBAC>6.50</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="0420069448531">
+        <NUME>Mircea Dorin</NUME>
+        <TELEFON>0724787012</TELEFON>
+        <EMAIL>d.mirc@yahoo.com</EMAIL>
+        <MEDBAC>5.50</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="5850172580680">
+        <NUME>Ion Vieru</NUME>
+        <TELEFON>0722227812</TELEFON>
+        <EMAIL>ion.v@yahoo.com</EMAIL>
+        <MEDBAC>9.00</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="6515118893017">
+        <NUME>Ana Maria</NUME>
+        <TELEFON>0722225432</TELEFON>
+        <EMAIL>ana.maria@yahoo.com</EMAIL>
+        <MEDBAC>7.50</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="8577446770470">
+        <NUME>Mihai Postescu</NUME>
+        <TELEFON>0722228912</TELEFON>
+        <EMAIL>postescu.123@yahoo.com</EMAIL>
+        <MEDBAC>10.00</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="4331293793610">
+        <NUME>Ion Vasile</NUME>
+        <TELEFON>0722228214</TELEFON>
+        <EMAIL>vasile.i@yahoo.com</EMAIL>
+        <MEDBAC>8.00</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="1353895057547">
+        <NUME>Gabi Moraru</NUME>
+        <TELEFON>0722266732</TELEFON>
+        <EMAIL>ro.gabi@yahoo.com</EMAIL>
+        <MEDBAC>9.00</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="8313713065133">
+        <NUME>Laura Floare</NUME>
+        <TELEFON>0722225882</TELEFON>
+        <EMAIL>laura.floare@yahoo.com</EMAIL>
+        <MEDBAC>6.00</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="1284220719349">
+        <NUME>Petru Florin</NUME>
+        <TELEFON>0722754592</TELEFON>
+        <EMAIL>florin.p@yahoo.com</EMAIL>
+        <MEDBAC>8.50</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="4254289276855">
+        <NUME>Ilie Moromete</NUME>
+        <TELEFON>0722761531</TELEFON>
+        <EMAIL>ilie.moro@yahoo.com</EMAIL>
+        <MEDBAC>4.50</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="5325219527496">
+        <NUME>Mihai Popescu</NUME>
+        <TELEFON>0722882459</TELEFON>
+        <EMAIL>m.popescu@yahoo.com</EMAIL>
+        <MEDBAC>9.25</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="6695596293926">
+        <NUME>Dumitru Laurentiu</NUME>
+        <TELEFON>0722995590</TELEFON>
+        <EMAIL>dumi.lau@yahoo.com</EMAIL>
+        <MEDBAC>7.25</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="6398873171190">
+        <NUME>Valeri Florin</NUME>
+        <TELEFON>0722754339</TELEFON>
+        <EMAIL>flori.val@yahoo.com</EMAIL>
+        <MEDBAC>10.00</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="2850620685666">
+        <NUME>Constantin Popescu</NUME>
+        <TELEFON>0722751234</TELEFON>
+        <EMAIL>pop.costantin@yahoo.com</EMAIL>
+        <MEDBAC>8.72</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="1402949524252">
+        <NUME>Elena Ion</NUME>
+        <TELEFON>0722700592</TELEFON>
+        <EMAIL>elena.ion@yahoo.com</EMAIL>
+        <MEDBAC>9.50</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="4606809626571">
+        <NUME>Veronica Dorin</NUME>
+        <TELEFON>0722754770</TELEFON>
+        <EMAIL>dorin.342@yahoo.com</EMAIL>
+        <MEDBAC>5.65</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="9185534533006">
+        <NUME>Alina Dorel</NUME>
+        <TELEFON>0722326787</TELEFON>
+        <EMAIL>al.dorel@yahoo.com</EMAIL>
+        <MEDBAC>7.75</MEDBAC>
+        <REZULTAT>RESPINS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="9638545541982">
+        <NUME>Robert Ionut</NUME>
+        <TELEFON>0722199192</TELEFON>
+        <EMAIL>robi.ion@yahoo.com</EMAIL>
+        <MEDBAC>9.80</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+    <ELEV cnp="6910472756519">
+        <NUME>Petre Florin</NUME>
+        <TELEFON>0722759023</TELEFON>
+        <EMAIL>petre.florin@yahoo.com</EMAIL>
+        <MEDBAC>8.95</MEDBAC>
+        <REZULTAT>ADMIS</REZULTAT>
+    </ELEV>
+</ADMITERE>
+

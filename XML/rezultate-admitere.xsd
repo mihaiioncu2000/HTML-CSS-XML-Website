@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="ADMITERE">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ELEV" type="elevType" minOccurs="0" maxOccurs="20"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:complexType name="elevType">  
+    <xs:sequence>
+        <xs:element name="NUME" type="xs:string"/>
+        <xs:element name="TELEFON" type="xs:string" maxOccurs="1"/>
+        <xs:element name="EMAIL" type="xs:string" minOccurs="0" maxOccurs="1"/>
+        <xs:element name="MEDBAC" minOccurs="1" maxOccurs="20" type="notaType"/>
+        <xs:element name="REZULTAT" type="xs:string" minOccurs="1" maxOccurs="20" />
+    </xs:sequence>
+    <xs:attribute name="cnp" type="cnpType" use="required"/>
+   </xs:complexType>
+
+
+    <xs:simpleType name="notaType">
+        <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="0"/>
+            <xs:maxInclusive value="10"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="cnpType">
+        <xs:restriction base="xs:string">
+            <xs:length value="13"/>
+            <xs:pattern value="[0-9]{13}"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
